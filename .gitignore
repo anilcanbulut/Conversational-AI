@@ -1,4 +1,5 @@
 __pycache__/
 .chainlit/
 .files/
+.ipynb_checkpoints/
 chainlit.md
